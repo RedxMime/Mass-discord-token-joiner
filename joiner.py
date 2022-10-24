@@ -1,4 +1,4 @@
-import ultrarequests
+import pyptext
 
 link = input('Discord Invite Link: ')
 if len(link) > 6:
